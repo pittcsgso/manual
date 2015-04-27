@@ -55,3 +55,13 @@ the Friday prior to their scheduled week, such as the following:
 	Thanks for volunteering!  Please acknowledge this message and let me know
 	if I can give you a hand with anything.
 
+## Welcome Picnic
+
+## Halloween Party
+
+## Holiday Party
+
+## International Luncheon
+
+## Other events
+
