@@ -4,6 +4,7 @@ social outlets the CS-GSO provides to its students on an ongoing basis.  This
 chapter aims to highlight the scope of the programs and services which the
 CS-GSO endeavors to provide to its surrounding academic community.
 
+
 # Coffee Hour
 
 By far the most visible social event organized by the CS-GSO is the weekly
@@ -58,13 +59,122 @@ be given to the host to be filed with their reimbursement.  Any leftover food
 should be delivered to the Graduate Lounge (6317); leftover coffee should be
 disposed of.
 
+
 # Welcome Picnic
+
+The largest department-wide event organized by the CS-GSO is the Faculty,
+Staff, and Graduate Student Picnic, held on the Friday of the first week of
+fall classes (that is, the Friday between 29 August and 4 September inclusive).
+It is also the event that requires the **most coordination, dedication, and
+planning** from the officers of the CS-GSO.
+
+The easiest way to frame the finances for this event are to **think of it as a
+departmental event,** since the department pays for _almost_ everything
+involved.  The CS-GSO simply coordinates the gathering of food and supplies for
+the picnic; provides the labor necessary to plan, setup, and run the event; and
+advertises the event to the department.
+
+## Picnic budget
+
+There are four aspects to the picnic budget:
+
+* The **picnic permit** is required by the City of Pittsburgh for use of its
+  shelters, and is paid for by the department.  There is a surcharge for the
+  right to have alcohol on the premises, which the department also pays for.
+
+  Typically this payment should be coordinated in mid-February as soon as
+  shelter reservations open for the new year.  In 2014, the shelter permit cost
+  **$150.00.**
+
+* A **food and supplies budget** is set in coordination with the department
+  chair.  This is used to purchase:
+
+    * Hamburgers, hot dogs, sausages, and vegetarian "bean burgers"
+
+    * Buns for all of the above
+
+    * Condiments such as cheeses, tomatoes, onions, lettuce, pickles, ketchup,
+      mustard, relish, and mayonnaise
+
+    * Chips and dips
+
+    * Cookies and other desserts
+
+    * Fruit such as watermelon
+
+    * Orange juice
+
+    * Bottled water
+
+    * Lots of ice (to keep everything cold)
+
+    * Any necessary supplies that are not already in storage or cannot
+      otherwise be acquired from the department such as charcoal, lighters,
+      lighter fluid, foil sheets, catering dishes, plastic table coverings,
+      freezer bags, garbage bags, hand sanitizer, and sanitary gloves
+
+    In 2014, this budget was **$300.00.**  In the event that a budget increase
+  may be necessary or desired, data on past years' purchases and the resulting
+  leftovers will be more persuasive in negotiations with the chair.  This data
+  can be found in `docs/picnic`.
+
+* **Soda** is also provided by the department; however, since the department
+  generally has cans of soda in its stockrooms for other events, this is **not
+  typically enumerated as a separate expense.**  Coordinate with Deb to ensure
+  that a wide array of sodas will be available for the CS-GSO to take from the
+  department stockroom and use on the day of the picnic.
+
+* **Alcohol,** due to University regulations, must be provided and paid for by
+  the CS-GSO if it is present.  Typically, this decision is made in the days
+  right before the picnic, with an eye toward the weather forecast, as if it
+  is too hot, people may be less apt to drink beer.  A couple cases is usually
+  more than enough, so the CS-GSO should plan on spending **$30.00 to $45.00**
+  of its own funds on this, if desired.
+
+In addition to the above, in order to help offset the cost of the event (and
+make the alcohol reimbursement easier or obviate it altogether), communications
+to members of the department advertising the picnic typically suggest that
+attendees bring either a side dish or a cash donation (usually $8.00).
+A Google Document or similar should be created to allow those bringing side
+dishes to report their intentions, so as to avoid over-buying similar items.
+Either Karen or Mackenzie can facilitate the collection of cash on the CS-GSO's
+behalf in advance of the picnic; however, be aware that some donations may be
+brought to the picnic itself.
+
+**It is especially important the new students should _not_ be made to feel
+obligated** to contribute food or cash to the picnic.  The primary source of
+this cash is from staff and a few faculty members, but there is no harm if a
+student is willing to donate.
+
+Any remaining cash after directly reimbursing the purchase of alcohol and
+covering any over-budget spending should be added to the Petty Cash fund for
+use at a future event.
+
+## Planning the picnic
+
+## Day of the picnic
+
+## After the picnic
+
+Return all leftover food to the Graduate Lounge (6317) and remaining supplies
+to the proper storage areas.  Leftover soda should be kept in CS-GSO storage or
+an office over the weekend, and its return to the department stockroom should
+be coordinated with Deb on the next business day.
+
+**Leftover beer cannot be kept in the building,** and should be distributed
+amongst the officers present to be promptly and discreetly removed from the
+building, whether intended for use at a later off-campus CS-GSO event, for the
+personal use of those receiving it, or otherwise.
+
 
 # Halloween Party
 
+
 # Holiday Party
 
+
 # International Luncheon
+
 
 # Other events
 

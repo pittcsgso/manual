@@ -25,6 +25,9 @@ here.
 * **Deb Lauro**, financial administrator,
   [lauro@cs.pitt.edu](lauro@cs.pitt.edu), SENSQ 6129
 
+* **Don Bonidie**, department administrator,
+  [dmb@cs.pitt.edu](dmb@cs.pitt.edu), SENSQ 6141
+
 * **Angela Ellis**, undergraduate program administrator,
   [angela@cs.pitt.edu](angela@cs.pitt.edu), SENSQ 6127
 
