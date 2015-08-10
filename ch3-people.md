@@ -37,11 +37,11 @@ here.
 
 # CS faculty
 
-* **Daniel Mossé**, chair,
-  [mosse@cs.pitt.edu](mosse@cs.pitt.edu), SENSQ 6137
+* **Taieb Znati**, department chair, September 2015 -- August 2018
+  [znati@cs.pitt.edu](znati@cs.pitt.edu), SENSQ 6137
 
-* **Taieb Znati**, director of graduate studies,
-  [znati@cs.pitt.edu](znati@cs.pitt.edu), SENSQ 6401
+* **Adam Lee**, director of graduate studies, September 2015 -- August 2016
+  [adamlee@cs.pitt.edu](adamlee@cs.pitt.edu), SENSQ 6111
 
 
 # Student government
