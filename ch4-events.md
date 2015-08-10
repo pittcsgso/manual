@@ -17,9 +17,9 @@ University holiday or the GPSG graduate and professional student orientation in
 August.  Coffee Hour is held every week throughout the year, except over the
 winter holidays.
 
-Signups are held for volunteers to bring food and drink on a weekly basis.
-Signup sheets should be prepared in advance of each academic term.  Weekly
-signin sheets are also needed for reimbursement verification purposes.  Past
+**Signups** are held for volunteers to bring food and drink on a weekly basis.
+Signup sheets should be prepared in advance of each academic term.  **Weekly
+signin sheets** are also needed for reimbursement verification purposes.  Past
 signup and signin sheets can be found in `docs/coffeehour`.
 
 The department provides up to $25.00 in reimbursement to each week's
@@ -28,7 +28,8 @@ napkins, and plasticware.  Detailed instructions for hosts are posted online at
 [http://gso.cs.pitt.edu/coffeehour/directions.php](http://gso.cs.pitt.edu/coffeehour/directions.php).
 
 CS-GSO officers should offer assistance to Coffee Hour hosts in any setup or
-cleanup as needed.  The President should send a reminder email to each host on
+cleanup as needed.  One officer should be designated as the main **Coffee Hour
+coordinator.**  This person should send a reminder email to each week's host on
 the Friday prior to their scheduled week, such as the following:
 
 	Michael,
@@ -45,6 +46,17 @@ the Friday prior to their scheduled week, such as the following:
 
 	Thanks for volunteering!  Please acknowledge this message and let me know
 	if I can give you a hand with anything.
+
+Just before each Coffee Hour, the Coffee Hour coordinator should bring the host
+signup sheet for the current term, a fresh signin sheet marked with the date
+and the name of this week's host, and several pens to the Faculty Lounge.
+
+After Coffee Hour has ended (either because all the food is gone, all the
+people are gone, or both), the Coffee Hour coordinator should retrieve the
+signup sheet and the pens for use next week.  The signin sheet, however, should
+be given to the host to be filed with their reimbursement.  Any leftover food
+should be delivered to the Graduate Lounge (6317); leftover coffee should be
+disposed of.
 
 # Welcome Picnic
 
