@@ -1,3 +1,9 @@
-*.pdf
+# Ignore generated TeX files and PDF output
+csgso-manual.pdf
 tex/
+
+# Ignore temporary files
+~*
+*.tmp
+*.swp
 
