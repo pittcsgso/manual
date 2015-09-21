@@ -12,7 +12,7 @@ Coffee Hour.  It aims to support the learning community of graduate students,
 faculty, and staff by allowing them to socialize in an informal setting, apart
 from their studies and day-to-day responsibilities.
 
-Traditionally, Coffee Hour is held in the Faculty Lounge (6323) weekly on
+Traditionally, Coffee Hour is held in the Seminar Room (5317) weekly on
 Mondays from 3:30--4:30pm, although this is moved to Tuesday in the event of a
 University holiday or the GPSG graduate and professional student orientation in
 August.  Coffee Hour is held every week throughout the year, except over the
