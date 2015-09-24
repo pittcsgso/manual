@@ -4,16 +4,28 @@ social outlets the CS-GSO provides to its students on an ongoing basis.  This
 chapter aims to highlight the scope of the programs and services which the
 CS-GSO endeavors to provide to its surrounding academic community.
 
-# GSO-sponsored colloquia
+# GSO-sponsored research colloquia
 
 [TODO] Explain the existing colloqium such as coffee-hour talk.
 
-* What CS-GSO had agreed with GPEC on hosting*
-1. For internal talks including student's research with faculty in Pitt or with any external collaborators, we may host any internal talks. These talks do not need to be cleared by the Departmental Colloquium committee. Student who host these talks would also receive research activity credit, even if it does not happen in the schedule for CS2003. This is similar to Wine & Research, CS Day, and faculties' colloquium.
-2. For external talks, we must have them cleared by Departmental Colloquium committee. This is regardless of the schedule for CS2003.
-3. For any talks that we sponsor that falls in the schedule for CS2003, students' attendance counts towards CS2003.
-4. Industry tech talks do not count towards CS2003.
-5. There are no limitations on what CS-GSO can do from GPEC. All of these points are about whether a event counts towards CS2003.
+Procedure for Coffee-Hour Talk:
+* Create Attendence Sheet and Signup Sheet before the start of Fall and Spring semesters (August and Janurary).
+* Announce signup is available to students at the beginning of fall and spring semesters.
+* Forward all signup information to Keena (CS Graduate Administrator). Keena is responsible for notifying the students and accounting of CS2003.
+* Coffee-Hour Talk happens at Monday prescheduled time for CS2003.
+* Bring the signup sheet to every coffee hour, and bring an attendence sheet to every coffee-hour talk. The attendence sheet should indicate:
+	* Who was the presenter
+	* Who attended the talk, and their affiliations.
+	* If we host a non-research talk, potentially due to student not presenting one after scheduling, CS-GSO should indicate this.
+
+What CS-GSO had agreed with GPEC on hosting these research events [Do not modify these unless it is a result from bilateral agreement with GPEC]:
+
+* For internal talks including student's research with faculty in Pitt or with any external collaborators, we may host any internal talks. These talks do not need to be cleared by the Departmental Colloquium committee. Student who host these talks would also receive research activity credit if they fall within the scheduled time for CS2003. Any other activities we host which students want to count as CS2003 research activity credit must be cleared by GPEC on case-by-case basis. This is similar to Wine & Research, CS Day, and faculties' colloquium.
+* For external talks, we must have them cleared by Departmental Colloquium committee and adhere any additional rules on hosting departmental colloquia. This is regardless of the schedule for CS2003.
+* For any research talks that we sponsor that falls in the schedule for CS2003, students' attendance counts towards CS2003.
+* Industry talks or any other non-research events do not count towards CS2003, regardless of the schedule.
+* There are no limitations on what CS-GSO can do from GPEC. All of these points are about the interactions between our events and courses offered by CS department.
+* Note these only applies to colloquia that falls within jurisdication of CS department. These rules do not apply to events we host outside department's space and courses. (e.g. A&S-GSO Grad Expo, A&S-GSO Travel Grant)
 
 [TODO] Procedure for scheduling an event with Colloquium committee.
 
